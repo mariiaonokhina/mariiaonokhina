@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mariiaonokhina
 - 👀 I’m interested in creating beautiful responsive websites.
-- 🌱 I’m currently learning web development and Java.
+- 🌱 I’m currently learning web development, Java, and Python.
 - 📫 How to reach me inst: @_mariaiaia
