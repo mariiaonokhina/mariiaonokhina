@@ -111,7 +111,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mariiaonokhina&theme=cobalt" height="165">
+  <img src="https://streak-stats.demolab.com?user=mariiaonokhina&theme=codestackr" height="165">
 </p>
 
 <p align="center">
@@ -125,12 +125,10 @@
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/mariiaonokhina/mariiaonokhina/output/github-contribution-grid-snake-dark.svg"
   />
-
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/mariiaonokhina/mariiaonokhina/output/github-contribution-grid-snake.svg"
   />
-
   <img
     alt="github contribution snake animation"
     src="https://raw.githubusercontent.com/mariiaonokhina/mariiaonokhina/output/github-contribution-grid-snake.svg"
