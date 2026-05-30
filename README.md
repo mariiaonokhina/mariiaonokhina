@@ -102,25 +102,37 @@
 </div>
 
 ###
+## 🔥 My Stats
 
-<h2 align="left">🔥 My Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mariiaonokhina&show_icons=true&theme=cobalt" height="165">
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mariiaonokhina&layout=compact&theme=cobalt" height="165">
+</p>
 
-###
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mariiaonokhina&theme=cobalt" height="165">
+</p>
 
-[![Mariia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariiaonokhina&show_icons=true&theme=cobalt)](https://github.com/mariiaonokhina)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiaonokhina&layout=compact&theme=cobalt)](https://github.com/mariiaonokhina)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mariiaonokhina&theme=algolia)](https://github.com/mariiaonokhina)
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=mariiaonokhina&theme=algolia">
+</p>
 
 ###
 
 <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/mariiaonokhina/mariiaonokhina/output/github-contribution-grid-snake-dark.svg"
+  />
 
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/mariiaonokhina/mariiaonokhina/output/github-contribution-grid-snake.svg"
+  />
 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-
+  <img
+    alt="github contribution snake animation"
+    src="https://raw.githubusercontent.com/mariiaonokhina/mariiaonokhina/output/github-contribution-grid-snake.svg"
+  />
 </picture>
