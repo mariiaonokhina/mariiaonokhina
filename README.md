@@ -107,17 +107,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mariiaonokhina&locale=en&mode=weekly&theme=cobalt&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=mariiaonokhina&show_icons=true&theme=cobalt&hide_border=false&cache_seconds=1800" height="150" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariiaonokhina&layout=compact&theme=cobalt&hide_border=false&cache_seconds=1800" height="150" alt="languages graph"  />
-</div>
+[![Mariia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariiaonokhina&show_icons=true&theme=cobalt)](https://github.com/mariiaonokhina)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mariiaonokhina&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="trophy graph" />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiaonokhina&layout=compact&theme=cobalt)](https://github.com/mariiaonokhina)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mariiaonokhina&theme=algolia)](https://github.com/mariiaonokhina)
 
 ###
 
